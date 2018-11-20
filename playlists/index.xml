@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Playlists on PlaymoreProto</title>
+    <link>/playlists/</link>
+    <description>Recent content in Playlists on PlaymoreProto</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Nov 2018 16:26:40 +0200</lastBuildDate>
+    
+	<atom:link href="/playlists/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Now Pop</title>
+      <link>/playlists/now-pop/</link>
+      <pubDate>Mon, 19 Nov 2018 18:17:19 +0200</pubDate>
+      
+      <guid>/playlists/now-pop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mega Jamz</title>
+      <link>/playlists/mega-jamz/</link>
+      <pubDate>Mon, 19 Nov 2018 17:24:12 +0200</pubDate>
+      
+      <guid>/playlists/mega-jamz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Top Beats</title>
+      <link>/playlists/top-beats/</link>
+      <pubDate>Mon, 19 Nov 2018 17:23:36 +0200</pubDate>
+      
+      <guid>/playlists/top-beats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mass Appeal</title>
+      <link>/playlists/mass-appeal/</link>
+      <pubDate>Mon, 19 Nov 2018 17:23:11 +0200</pubDate>
+      
+      <guid>/playlists/mass-appeal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My Favorite Hits</title>
+      <link>/playlists/my-favorite-hits/</link>
+      <pubDate>Mon, 19 Nov 2018 17:22:48 +0200</pubDate>
+      
+      <guid>/playlists/my-favorite-hits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ritmo Caliente</title>
+      <link>/playlists/ritmo-caliente/</link>
+      <pubDate>Mon, 19 Nov 2018 17:22:27 +0200</pubDate>
+      
+      <guid>/playlists/ritmo-caliente/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Star Stage</title>
+      <link>/playlists/star-stage/</link>
+      <pubDate>Mon, 19 Nov 2018 17:21:55 +0200</pubDate>
+      
+      <guid>/playlists/star-stage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Mix</title>
+      <link>/playlists/the-mix/</link>
+      <pubDate>Mon, 19 Nov 2018 15:22:37 +0200</pubDate>
+      
+      <guid>/playlists/the-mix/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
