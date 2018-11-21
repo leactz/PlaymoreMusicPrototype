@@ -2,111 +2,111 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PlaymoreProto</title>
-    <link>https://leactz.github.io/PlaymoreMusicPrototype/</link>
+    <link>/</link>
     <description>Recent content on PlaymoreProto</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 20 Nov 2018 09:27:30 +0200</lastBuildDate>
     
-	<atom:link href="https://leactz.github.io/PlaymoreMusicPrototype/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Starter</title>
-      <link>https://leactz.github.io/PlaymoreMusicPrototype/pricing/starter/</link>
+      <link>/pricing/starter/</link>
       <pubDate>Tue, 20 Nov 2018 09:27:30 +0200</pubDate>
       
-      <guid>https://leactz.github.io/PlaymoreMusicPrototype/pricing/starter/</guid>
+      <guid>/pricing/starter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Premium</title>
-      <link>https://leactz.github.io/PlaymoreMusicPrototype/pricing/premium/</link>
+      <link>/pricing/premium/</link>
       <pubDate>Tue, 20 Nov 2018 09:28:24 +0200</pubDate>
       
-      <guid>https://leactz.github.io/PlaymoreMusicPrototype/pricing/premium/</guid>
+      <guid>/pricing/premium/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cube Player</title>
-      <link>https://leactz.github.io/PlaymoreMusicPrototype/pricing/cube-player/</link>
+      <link>/pricing/cube-player/</link>
       <pubDate>Tue, 20 Nov 2018 09:28:44 +0200</pubDate>
       
-      <guid>https://leactz.github.io/PlaymoreMusicPrototype/pricing/cube-player/</guid>
+      <guid>/pricing/cube-player/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Now Pop</title>
-      <link>https://leactz.github.io/PlaymoreMusicPrototype/playlists/now-pop/</link>
+      <link>/playlists/now-pop/</link>
       <pubDate>Mon, 19 Nov 2018 18:17:19 +0200</pubDate>
       
-      <guid>https://leactz.github.io/PlaymoreMusicPrototype/playlists/now-pop/</guid>
+      <guid>/playlists/now-pop/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mega Jamz</title>
-      <link>https://leactz.github.io/PlaymoreMusicPrototype/playlists/mega-jamz/</link>
+      <link>/playlists/mega-jamz/</link>
       <pubDate>Mon, 19 Nov 2018 17:24:12 +0200</pubDate>
       
-      <guid>https://leactz.github.io/PlaymoreMusicPrototype/playlists/mega-jamz/</guid>
+      <guid>/playlists/mega-jamz/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Top Beats</title>
-      <link>https://leactz.github.io/PlaymoreMusicPrototype/playlists/top-beats/</link>
+      <link>/playlists/top-beats/</link>
       <pubDate>Mon, 19 Nov 2018 17:23:36 +0200</pubDate>
       
-      <guid>https://leactz.github.io/PlaymoreMusicPrototype/playlists/top-beats/</guid>
+      <guid>/playlists/top-beats/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mass Appeal</title>
-      <link>https://leactz.github.io/PlaymoreMusicPrototype/playlists/mass-appeal/</link>
+      <link>/playlists/mass-appeal/</link>
       <pubDate>Mon, 19 Nov 2018 17:23:11 +0200</pubDate>
       
-      <guid>https://leactz.github.io/PlaymoreMusicPrototype/playlists/mass-appeal/</guid>
+      <guid>/playlists/mass-appeal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>My Favorite Hits</title>
-      <link>https://leactz.github.io/PlaymoreMusicPrototype/playlists/my-favorite-hits/</link>
+      <link>/playlists/my-favorite-hits/</link>
       <pubDate>Mon, 19 Nov 2018 17:22:48 +0200</pubDate>
       
-      <guid>https://leactz.github.io/PlaymoreMusicPrototype/playlists/my-favorite-hits/</guid>
+      <guid>/playlists/my-favorite-hits/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ritmo Caliente</title>
-      <link>https://leactz.github.io/PlaymoreMusicPrototype/playlists/ritmo-caliente/</link>
+      <link>/playlists/ritmo-caliente/</link>
       <pubDate>Mon, 19 Nov 2018 17:22:27 +0200</pubDate>
       
-      <guid>https://leactz.github.io/PlaymoreMusicPrototype/playlists/ritmo-caliente/</guid>
+      <guid>/playlists/ritmo-caliente/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Star Stage</title>
-      <link>https://leactz.github.io/PlaymoreMusicPrototype/playlists/star-stage/</link>
+      <link>/playlists/star-stage/</link>
       <pubDate>Mon, 19 Nov 2018 17:21:55 +0200</pubDate>
       
-      <guid>https://leactz.github.io/PlaymoreMusicPrototype/playlists/star-stage/</guid>
+      <guid>/playlists/star-stage/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Mix</title>
-      <link>https://leactz.github.io/PlaymoreMusicPrototype/playlists/the-mix/</link>
+      <link>/playlists/the-mix/</link>
       <pubDate>Mon, 19 Nov 2018 15:22:37 +0200</pubDate>
       
-      <guid>https://leactz.github.io/PlaymoreMusicPrototype/playlists/the-mix/</guid>
+      <guid>/playlists/the-mix/</guid>
       <description></description>
     </item>
     
