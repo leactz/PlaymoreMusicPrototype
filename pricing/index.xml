@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Plans and Pricing on PlaymoreProto</title>
-    <link>/pricing/</link>
+    <link>https://leactz.github.io/PlaymoreMusicPrototype/pricing/</link>
     <description>Recent content in Plans and Pricing on PlaymoreProto</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 08 Nov 2018 13:25:00 +0200</lastBuildDate>
     
-	<atom:link href="/pricing/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://leactz.github.io/PlaymoreMusicPrototype/pricing/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Starter</title>
-      <link>/pricing/starter/</link>
+      <link>https://leactz.github.io/PlaymoreMusicPrototype/pricing/starter/</link>
       <pubDate>Tue, 20 Nov 2018 09:27:30 +0200</pubDate>
       
-      <guid>/pricing/starter/</guid>
+      <guid>https://leactz.github.io/PlaymoreMusicPrototype/pricing/starter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Premium</title>
-      <link>/pricing/premium/</link>
+      <link>https://leactz.github.io/PlaymoreMusicPrototype/pricing/premium/</link>
       <pubDate>Tue, 20 Nov 2018 09:28:24 +0200</pubDate>
       
-      <guid>/pricing/premium/</guid>
+      <guid>https://leactz.github.io/PlaymoreMusicPrototype/pricing/premium/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cube Player</title>
-      <link>/pricing/cube-player/</link>
+      <link>https://leactz.github.io/PlaymoreMusicPrototype/pricing/cube-player/</link>
       <pubDate>Tue, 20 Nov 2018 09:28:44 +0200</pubDate>
       
-      <guid>/pricing/cube-player/</guid>
+      <guid>https://leactz.github.io/PlaymoreMusicPrototype/pricing/cube-player/</guid>
       <description></description>
     </item>
     
