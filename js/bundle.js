@@ -1,8 +1,6 @@
+//featured playlists carousel
+
 $(document).ready(function(){
-
-  console.log('carousel js is working');
-
-
 
   $('.carousel-next').on('click', function(e) {
 
@@ -13,9 +11,6 @@ $(document).ready(function(){
         scrollLeft: $leftPos + 320
 
       } ,800);
-
-
-
   });
 
   $('.carousel-prev').on('click', function(e) {
@@ -30,8 +25,6 @@ $(document).ready(function(){
 
 
   });
-
-
 
 });
 // confirm that javascript has loaded
@@ -57,12 +50,7 @@ $(document).ready(function() {
       $('#navExpand').fadeOut();
       $(this).removeClass('fa-times').addClass('fa-bars');
     }
-
-
   });
-
-
-//featured playlists carousel
 
 
 });
