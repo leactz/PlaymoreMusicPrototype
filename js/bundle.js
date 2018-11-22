@@ -52,5 +52,20 @@ $(document).ready(function() {
     }
   });
 
+  // play-buttons for single playlists. Keep hidden on page load
+
+  $('.sample').hide().removeClass('hidden');
+
+  // show text on mouseover
+
+  $('.play').on('mouseover', function(e){
+    $('.sample').slideDown(300);
+  });
+
+  //hide text on mouseout
+
+  $('.play').on('mouseout', function(e){
+    $('.sample').slideUp(300);
+  });
 
 });
