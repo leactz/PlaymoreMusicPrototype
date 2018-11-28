@@ -33,13 +33,13 @@ $(document).ready(function() {
 
   console.log("js is working");
 
-  //show burger menu on smaller than 1023px
+  // SHOW BURGER MENU ON 1023PX AND SMALLER
   if (window.innerWidth <= 1023) {
       $('#navToggle').removeClass('hidden');
       console.log('window is now 1023px or smaller');
     }
 
-  // toggle navigation list and navigation toggle
+  // TOGGLE NAVIGATION LIST AND NAVIGATION TOGGLE
   $('#navToggle').on('click', function(e) {
 
     if ( $(this).hasClass('fa-bars')) {
@@ -52,20 +52,26 @@ $(document).ready(function() {
     }
   });
 
-  // play-buttons for single playlists. Keep hidden on page load
+  // PLAY-BUTTON FUNCTIONS FOR SINGLE PLAYLISTS. KEEP HIDDEN ON PAGE LOAD
 
   $('.sample').hide().removeClass('hidden');
 
-  // show text on mouseover
+      // show text on mouseover
 
   $('.play').on('mouseover', function(e){
     $('.sample').slideDown(300);
   });
 
-  //hide text on mouseout
+      //hide text on mouseout
 
   $('.play').on('mouseout', function(e){
     $('.sample').slideUp(300);
+  });
+
+  // BACK BUTTON FUNCTION
+
+  $('.back-button').on('click', function(e) {
+    window.history.back();
   });
 
 });
