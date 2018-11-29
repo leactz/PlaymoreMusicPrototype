@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Playlists on PlaymoreProto</title>
+    <title>Playlists on Playmore-ContentDraft</title>
     <link>/playlists/</link>
-    <description>Recent content in Playlists on PlaymoreProto</description>
+    <description>Recent content in Playlists on Playmore-ContentDraft</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 14 Nov 2018 16:26:40 +0200</lastBuildDate>
