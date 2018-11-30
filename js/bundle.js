@@ -62,10 +62,9 @@ $(document).ready(function() {
     $('.sample').slideDown(300);
   });
 
-      //hide text on mouseout
-
-  $('.play').on('mouseout', function(e){
-    $('.sample').slideUp(300);
+  // toggle between play and pause buttons on click
+  $('.play').on('click', function(e) {
+    $(this).toggleClass('fa-pause fa-play');
   });
 
   // BACK BUTTON FUNCTION
