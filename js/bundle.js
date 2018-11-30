@@ -36,7 +36,6 @@ $(document).ready(function() {
   // SHOW BURGER MENU ON 1023PX AND SMALLER
   if (window.innerWidth <= 1023) {
       $('#navToggle').removeClass('hidden');
-      console.log('window is now 1023px or smaller');
     }
 
   // TOGGLE NAVIGATION LIST AND NAVIGATION TOGGLE
