@@ -64,7 +64,19 @@ $(document).ready(function() {
   // toggle between play and pause buttons on click
   $('.play').on('click', function(e) {
     $(this).toggleClass('fa-pause fa-play');
+
   });
+  // PLAY AND PAUSE MUSIC
+  let sampleTrack =  document.querySelector('.sample-track');
+  //play
+  $('.fa-play').on('click', function(e) {
+    sampleTrack.play();
+  });
+  //pause
+  $('#audioToggle .fa-pause').on('click', function(e) {
+   sampleTrack.pause();
+   console.log('audio paused');
+ });
 
   // BACK BUTTON FUNCTION
 

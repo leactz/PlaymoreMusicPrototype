@@ -18,7 +18,7 @@
 <a class="navbar-brand" href="../../">Playmore Music</a>
 <ul class="navigation hide-small" id="navExpand">
   
-  <li><a href="../../">Home</a></li><li><a class="" href="../../pricing/">Plans and Pricing</a></li><li><a class="" href="../../playlists/">Playlists</a></li></ul>
+  <li><a href="../../">Home</a></li><li><a class="" href="../../pricing/starter/">Starter</a></li><li><a class="" href="../../pricing/premium/">Premium</a></li><li><a class="" href="../../pricing/cube-player/">Cube Player</a></li></ul>
 </nav>
 
   
@@ -41,8 +41,11 @@
             <img src="../../playlists/radio-mix.png" class="single-playlist-img">
             <figcaption>
               
-              <center><i class="fas fa-play play"></i></center>
+              <center><i id="audioToggle" class="fas fa-play play"></i></center>
               <p class="sample hidden">play sample</p>
+              <audio class="sample-track">
+                <source src=" ../../playlists/" type="audio/mpeg">
+              </audio>
             </figcaption>
         </figure>
         <p class="text-center"></p>
@@ -58,7 +61,10 @@
       </div>
       <div class="row mt-30 space-around">
         <a href="../../playlists/musica-esencial/" class="button btn-stack">Previous</a>
-        <a href="../../playlists/" class="button btn-stack">All</a>
+        
+        <a href="../../playlists/#premiumPlaylists" class="button btn-stack">All</a>
+        
+
         <a href="../../playlists/yesterdays-hits/" class="button btn-stack">Next</a>
       </div>
     </div>

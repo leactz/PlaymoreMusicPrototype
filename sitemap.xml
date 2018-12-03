@@ -23,32 +23,52 @@
   </url>
   
   <url>
+    <loc>/playlists/fresh-and-trendy/</loc>
+    <lastmod>2018-12-03T07:59:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/playlists/young-and-free/</loc>
+    <lastmod>2018-12-03T07:59:13+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/playlists/route-66/</loc>
+    <lastmod>2018-12-03T07:58:38+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/playlists/mainstream-pop/</loc>
+    <lastmod>2018-12-03T07:51:43+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/lyric-filters/</loc>
     <lastmod>2018-11-26T11:49:33+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/playlists/indie-city/</loc>
+    <loc>/playlists/indie-days/</loc>
     <lastmod>2018-11-21T16:53:27+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/playlists/jazz-hot-plates/</loc>
+    <loc>/playlists/jazz-classics/</loc>
     <lastmod>2018-11-21T15:45:57+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/playlists/acoustic-edge/</loc>
+    <loc>/playlists/acoustic-dream/</loc>
     <lastmod>2018-11-21T15:26:56+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/playlists/lounge-sophistication/</loc>
+    <loc>/playlists/smooth-lounge/</loc>
     <lastmod>2018-11-21T15:21:26+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/playlists/paced-pop/</loc>
+    <loc>/playlists/now-pop/</loc>
     <lastmod>2018-11-19T18:17:19+02:00</lastmod>
   </url>
   
@@ -88,12 +108,13 @@
   </url>
   
   <url>
-    <loc>/playlists/</loc>
-    <lastmod>2018-11-14T16:26:40+02:00</lastmod>
+    <loc>/categories/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/playlists/</loc>
+    <lastmod>2018-12-03T07:59:37+02:00</lastmod>
     <priority>0</priority>
   </url>
   
