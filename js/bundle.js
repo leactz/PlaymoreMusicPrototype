@@ -66,7 +66,7 @@ $(document).ready(function() {
     $(this).toggleClass('fa-pause fa-play');
 
   });
-  // PLAY AND PAUSE MUSIC - EXPERIMENTAL, NOT WORKING YET
+  // PLAY AND PAUSE MUSIC
   let sampleTrack =  document.querySelector('.sample-track');
   //play
   $('.fa-play').on('click', function(e) {
