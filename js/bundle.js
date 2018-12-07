@@ -67,16 +67,16 @@ $(document).ready(function() {
 
   });
   // PLAY AND PAUSE MUSIC - EXPERIMENTAL, NOT WORKING YET
-  let sampleTrack =  document.querySelector('.sample-track');
+  //let sampleTrack =  document.querySelector('.sample-track');
   //play
-  $('.fa-play').on('click', function(e) {
-    sampleTrack.play();
-  });
+  //$('.fa-play').on('click', function(e) {
+  //  sampleTrack.play();
+//  });
   //pause
-  $('#audioToggle .fa-pause').on('click', function(e) {
-   sampleTrack.pause();
-   console.log('audio paused');
- });
+//  $('#audioToggle .fa-pause').on('click', function(e) {
+//   sampleTrack.pause();
+//   console.log('audio paused');
+ //});
 
   // BACK BUTTON FUNCTION
 
