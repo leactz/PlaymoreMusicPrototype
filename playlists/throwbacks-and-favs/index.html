@@ -5,7 +5,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no shrink-to-fit=no">
   <title>Throwbacks and Favs</title>
   <base href="">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aplayer/1.10.1/APlayer.min.css">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aplayer/1.10.1/APlayer.min.css">
   
   
   <link rel="stylesheet" href="../../css/styles.css" integrity="" media="screen">
@@ -29,34 +31,41 @@
 
   
     <div class="jumbo-title">
-      <h1 class="h2 inverse shadow">Throwbacks and Favs</h1>
+      <h1 class="h2 inverse shadow" id="playerTitle">Throwbacks and Favs</h1>
     </div>
 
 
 
     <div class="wrapper wrapper-col single-playlist-section">
-        <h2 class="h4"></h2>
-        <p class="lead text-center"></p>
+        <h2 class="h4" id="playerArtist">Contemporary Adult Listening</h2>
+        <p class="lead text-center">This playlist is a fantastic collection of timeless 80&#39;s, 90&#39;s and a mix of modern tracks. It has proven to play well with adults over the age of 25 years and is very popular with our clients!</p>
         <figure class="card play-card on-light on-white">
-            <img src="../../playlists/" class="single-playlist-img">
-            <figcaption>
-              
-              <center><i id="audioToggle" class="fas fa-play play"></i></center>
-              <p class="sample hidden">play sample</p>
-              <audio class="sample-track">
-                <source src=" ../../playlists/" type="audio/mpeg">
-              </audio>
-            </figcaption>
+            <img src="../../playlists/throwbacks-and-favs.png" class="single-playlist-img" id="playerCover">
+            
+                <figcaption class="text-tiny">
+                  
+                  
+                  
+                  <p class="h6 hover-expand">Sample</p>
+                  <div class="expand hidden">
+                  <div id="aplayer">
+                    <span class="sample-track"> ../playlists/captain-scurvy.mp3 </span>
+                  </div>
+                  Attribution for temporary music used: Captain Scurvy by Kevin MacLeod (incompetech.com)
+                      Licensed under Creative Commons: By Attribution 3.0
+                        http://creativecommons.org/licenses/by/3.0/
+                </figcaption>
+            
         </figure>
         <p class="text-center"></p>
-      
+      <p class="artist-list h6">Includes Artists: Taylor Swift, John Legend, Kelly Clarkson, Train, Katy Perry</p>
       <p class="h5">
-        
+        Plan: Premium 
       </p>
-      <div style="background-color: " class="lyric-filter">
+      <div style="background-color: yellow" class="lyric-filter">
         
         <a href="../../lyric-filters/">
-        <p></p>
+        <p>Lyric Filter: yellow</p>
         </a>
       </div>
       <div class="row mt-30 space-around">
@@ -107,6 +116,8 @@
   src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"
   integrity="sha256-T0Vest3yCU7pafRw9r+settMBX6JkKN06dqBnpQ8d30="
   crossorigin="anonymous"></script>
+  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/aplayer/1.10.1/APlayer.min.js"></script>
   
   
   

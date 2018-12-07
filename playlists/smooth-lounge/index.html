@@ -5,7 +5,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no shrink-to-fit=no">
   <title>Smooth Lounge</title>
   <base href="">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aplayer/1.10.1/APlayer.min.css">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aplayer/1.10.1/APlayer.min.css">
   
   
   <link rel="stylesheet" href="../../css/styles.css" integrity="" media="screen">
@@ -29,24 +31,17 @@
 
   
     <div class="jumbo-title">
-      <h1 class="h2 inverse shadow">Smooth Lounge</h1>
+      <h1 class="h2 inverse shadow" id="playerTitle">Smooth Lounge</h1>
     </div>
 
 
 
     <div class="wrapper wrapper-col single-playlist-section">
-        <h2 class="h4">Elegant &amp; Low-Key</h2>
+        <h2 class="h4" id="playerArtist">Elegant &amp; Low-Key</h2>
         <p class="lead text-center">Smooth Lounge features elegant and low-key sounds in a modern format, including styles such as soft house, R&amp;B, nu-jazz and slick soul.</p>
         <figure class="card play-card on-light on-white">
-            <img src="../../playlists/smooth-lounge.png" class="single-playlist-img">
-            <figcaption>
-              
-              <center><i id="audioToggle" class="fas fa-play play"></i></center>
-              <p class="sample hidden">play sample</p>
-              <audio class="sample-track">
-                <source src=" ../../playlists/" type="audio/mpeg">
-              </audio>
-            </figcaption>
+            <img src="../../playlists/smooth-lounge.png" class="single-playlist-img" id="playerCover">
+            
         </figure>
         <p class="text-center">The channel provides a sophisticated and laid back feel, combining the polished sounds and subdued woozy textures that appeal to globetrotters in hotel bars and restaurants. Trendy and stylish, Smooth Lounge expresses desire as well as introspection.</p>
       
@@ -107,6 +102,8 @@
   src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"
   integrity="sha256-T0Vest3yCU7pafRw9r+settMBX6JkKN06dqBnpQ8d30="
   crossorigin="anonymous"></script>
+  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/aplayer/1.10.1/APlayer.min.js"></script>
   
   
   

@@ -5,7 +5,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no shrink-to-fit=no">
   <title>Indie Days</title>
   <base href="">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aplayer/1.10.1/APlayer.min.css">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aplayer/1.10.1/APlayer.min.css">
   
   
   <link rel="stylesheet" href="../../css/styles.css" integrity="" media="screen">
@@ -29,24 +31,17 @@
 
   
     <div class="jumbo-title">
-      <h1 class="h2 inverse shadow">Indie Days</h1>
+      <h1 class="h2 inverse shadow" id="playerTitle">Indie Days</h1>
     </div>
 
 
 
     <div class="wrapper wrapper-col single-playlist-section">
-        <h2 class="h4">Stylish &amp; Edgy</h2>
+        <h2 class="h4" id="playerArtist">Stylish &amp; Edgy</h2>
         <p class="lead text-center">A stylish and edgy channel for trendsetters and unique spirited souls, built on a blend of indie pop, dance, electronica, nu disco and neo soul.</p>
         <figure class="card play-card on-light on-white">
-            <img src="../../playlists/indie-days.png" class="single-playlist-img">
-            <figcaption>
-              
-              <center><i id="audioToggle" class="fas fa-play play"></i></center>
-              <p class="sample hidden">play sample</p>
-              <audio class="sample-track">
-                <source src=" ../../playlists/" type="audio/mpeg">
-              </audio>
-            </figcaption>
+            <img src="../../playlists/indie-days.png" class="single-playlist-img" id="playerCover">
+            
         </figure>
         <p class="text-center">The future, today! Drawing inspiration from cities such as Paris, Tokyo and LA, these select sounds ooze avant-garde. Covering several genres such as indie pop,  electronica and soft house, the songs are no short on character yet maintain an intensity level matching the latest interior design and perfect t-shirts.</p>
       
@@ -107,6 +102,8 @@
   src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"
   integrity="sha256-T0Vest3yCU7pafRw9r+settMBX6JkKN06dqBnpQ8d30="
   crossorigin="anonymous"></script>
+  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/aplayer/1.10.1/APlayer.min.js"></script>
   
   
   

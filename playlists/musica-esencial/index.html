@@ -5,7 +5,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no shrink-to-fit=no">
   <title>Musica Esencial</title>
   <base href="">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aplayer/1.10.1/APlayer.min.css">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aplayer/1.10.1/APlayer.min.css">
   
   
   <link rel="stylesheet" href="../../css/styles.css" integrity="" media="screen">
@@ -29,24 +31,31 @@
 
   
     <div class="jumbo-title">
-      <h1 class="h2 inverse shadow">Musica Esencial</h1>
+      <h1 class="h2 inverse shadow" id="playerTitle">Musica Esencial</h1>
     </div>
 
 
 
     <div class="wrapper wrapper-col single-playlist-section">
-        <h2 class="h4">Contemporary &amp; Hits from Latin America</h2>
+        <h2 class="h4" id="playerArtist">Contemporary &amp; Hits from Latin America</h2>
         <p class="lead text-center">This list combines some of the top English-language hits with the fast-growing popularity of Spanish-language chart toppers. This playlist will appeal to a large audience of those who love today&#39;s hits.</p>
         <figure class="card play-card on-light on-white">
-            <img src="../../playlists/musica-esencial.png" class="single-playlist-img">
-            <figcaption>
-              
-              <center><i id="audioToggle" class="fas fa-play play"></i></center>
-              <p class="sample hidden">play sample</p>
-              <audio class="sample-track">
-                <source src=" ../../playlists/" type="audio/mpeg">
-              </audio>
-            </figcaption>
+            <img src="../../playlists/musica-esencial.png" class="single-playlist-img" id="playerCover">
+            
+                <figcaption class="text-tiny">
+                  
+                  
+                  
+                  <p class="h6 hover-expand">Sample</p>
+                  <div class="expand hidden">
+                  <div id="aplayer">
+                    <span class="sample-track"> ../playlists/acid-trumpet.mp3 </span>
+                  </div>
+                  Attribution for temporary music used: Acid Trumpet by Kevin MacLeod (incompetech.com)
+                      Licensed under Creative Commons: By Attribution 3.0
+                        http://creativecommons.org/licenses/by/3.0/
+                </figcaption>
+            
         </figure>
         <p class="text-center"></p>
       <p class="artist-list h6">Includes Artists: Justin Bieber, Daddy Yankee, Fifth Harmony, Nicky Jam</p>
@@ -107,6 +116,8 @@
   src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"
   integrity="sha256-T0Vest3yCU7pafRw9r+settMBX6JkKN06dqBnpQ8d30="
   crossorigin="anonymous"></script>
+  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/aplayer/1.10.1/APlayer.min.js"></script>
   
   
   

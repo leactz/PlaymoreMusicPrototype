@@ -66,19 +66,28 @@ $(document).ready(function() {
     $(this).toggleClass('fa-pause fa-play');
 
   });
-  // PLAY AND PAUSE MUSIC - EXPERIMENTAL, NOT WORKING YET
-  //let sampleTrack =  document.querySelector('.sample-track');
-  //play
-  //$('.fa-play').on('click', function(e) {
-  //  sampleTrack.play();
-//  });
-  //pause
-//  $('#audioToggle .fa-pause').on('click', function(e) {
-//   sampleTrack.pause();
-//   console.log('audio paused');
- //});
+
+ //EXPERIMENTAL APLAYER code
+
+ $('.expand').hide().removeClass('hidden');
+
+ $('.hover-expand').on('mouseover', function(e){
+   $('.expand').slideDown(300).addClass('expanded');
+
+ });
+
+ const ap = new APlayer({
+   container: document.querySelector('#aplayer'),
+   audio: [{
+     name: document.querySelector('#playerTitle').innerHTML,
+     artist: document.querySelector('#playerArtist').innerHTML,
+     url: document.querySelector('.sample-track').innerHTML,
+     cover: document.querySelector('#playerCover').src
+   }]
+ });
 
   // BACK BUTTON FUNCTION
+
 
   $('.back-button').on('click', function(e) {
     window.history.back();
