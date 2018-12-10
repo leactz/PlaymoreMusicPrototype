@@ -32,12 +32,7 @@ $(document).ready(function(){
 $(document).ready(function() {
 
   console.log("js is working");
-
-  // SHOW BURGER MENU ON 1023PX AND SMALLER
-  if (window.innerWidth <= 1023) {
-      $('#navToggle').removeClass('hidden');
-    }
-
+  
   // TOGGLE NAVIGATION LIST AND NAVIGATION TOGGLE
   $('#navToggle').on('click', function(e) {
 
@@ -73,6 +68,7 @@ $(document).ready(function() {
 
  $('.hover-expand').on('mouseover', function(e){
    $('.expand').slideDown(300).addClass('expanded');
+   $('.fa-play').hide(300);
 
  });
 
@@ -82,7 +78,7 @@ $(document).ready(function() {
      name: document.querySelector('#playerTitle').innerHTML,
      artist: document.querySelector('#playerArtist').innerHTML,
      url: document.querySelector('.sample-track').innerHTML,
-     cover: document.querySelector('#playerCover').src
+     //cover: document.querySelector('#playerCover').src
    }]
  });
 
