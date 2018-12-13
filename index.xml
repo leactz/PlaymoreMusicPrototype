@@ -13,55 +13,64 @@
     
     <item>
       <title>Starter</title>
-      <link>/playmore/starter/</link>
+      <link>/business-music-plans/starter/</link>
       <pubDate>Tue, 20 Nov 2018 09:27:30 +0200</pubDate>
       
-      <guid>/playmore/starter/</guid>
+      <guid>/business-music-plans/starter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Premium</title>
-      <link>/playmore/premium/</link>
+      <link>/business-music-plans/premium/</link>
       <pubDate>Tue, 20 Nov 2018 09:28:24 +0200</pubDate>
       
-      <guid>/playmore/premium/</guid>
+      <guid>/business-music-plans/premium/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Sign Up</title>
+      <link>/sign-up/</link>
+      <pubDate>Mon, 03 Dec 2018 15:45:56 +0200</pubDate>
+      
+      <guid>/sign-up/</guid>
+      <description> Placeholder For Sign-Up Interface </description>
+    </item>
+    
+    <item>
       <title>Fresh and Trendy</title>
-      <link>/playmore/starter/channels/fresh-and-trendy/</link>
+      <link>/starter-business-music/fresh-and-trendy/</link>
       <pubDate>Mon, 03 Dec 2018 07:59:37 +0200</pubDate>
       
-      <guid>/playmore/starter/channels/fresh-and-trendy/</guid>
+      <guid>/starter-business-music/fresh-and-trendy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Young and Free</title>
-      <link>/playmore/starter/channels/young-and-free/</link>
+      <link>/starter-business-music/young-and-free/</link>
       <pubDate>Mon, 03 Dec 2018 07:59:13 +0200</pubDate>
       
-      <guid>/playmore/starter/channels/young-and-free/</guid>
+      <guid>/starter-business-music/young-and-free/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Route 66</title>
-      <link>/playmore/starter/channels/route-66/</link>
+      <link>/starter-business-music/route-66/</link>
       <pubDate>Mon, 03 Dec 2018 07:58:38 +0200</pubDate>
       
-      <guid>/playmore/starter/channels/route-66/</guid>
+      <guid>/starter-business-music/route-66/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mainstream Pop</title>
-      <link>/playmore/starter/channels/mainstream-pop/</link>
+      <link>/starter-business-music/mainstream-pop/</link>
       <pubDate>Mon, 03 Dec 2018 07:51:43 +0200</pubDate>
       
-      <guid>/playmore/starter/channels/mainstream-pop/</guid>
+      <guid>/starter-business-music/mainstream-pop/</guid>
       <description></description>
     </item>
     
@@ -76,118 +85,109 @@
     
     <item>
       <title>Indie Days</title>
-      <link>/playmore/starter/channels/indie-days/</link>
+      <link>/starter-business-music/indie-days/</link>
       <pubDate>Wed, 21 Nov 2018 16:53:27 +0200</pubDate>
       
-      <guid>/playmore/starter/channels/indie-days/</guid>
+      <guid>/starter-business-music/indie-days/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jazz Classics</title>
-      <link>/playmore/starter/channels/jazz-classics/</link>
+      <link>/starter-business-music/jazz-classics/</link>
       <pubDate>Wed, 21 Nov 2018 15:45:57 +0200</pubDate>
       
-      <guid>/playmore/starter/channels/jazz-classics/</guid>
+      <guid>/starter-business-music/jazz-classics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Acoustic Dream</title>
-      <link>/playmore/starter/channels/acoustic-dream/</link>
+      <link>/starter-business-music/acoustic-dream/</link>
       <pubDate>Wed, 21 Nov 2018 15:26:56 +0200</pubDate>
       
-      <guid>/playmore/starter/channels/acoustic-dream/</guid>
+      <guid>/starter-business-music/acoustic-dream/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Smooth Lounge</title>
-      <link>/playmore/starter/channels/smooth-lounge/</link>
+      <link>/starter-business-music/smooth-lounge/</link>
       <pubDate>Wed, 21 Nov 2018 15:21:26 +0200</pubDate>
       
-      <guid>/playmore/starter/channels/smooth-lounge/</guid>
+      <guid>/starter-business-music/smooth-lounge/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Now Pop</title>
-      <link>/playmore/starter/channels/now-pop/</link>
+      <link>/starter-business-music/now-pop/</link>
       <pubDate>Mon, 19 Nov 2018 18:17:19 +0200</pubDate>
       
-      <guid>/playmore/starter/channels/now-pop/</guid>
+      <guid>/starter-business-music/now-pop/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Turntable Numbers</title>
-      <link>/playmore/premium/channels/turntable-numbers/</link>
+      <link>/premium-business-music/turntable-numbers/</link>
       <pubDate>Mon, 19 Nov 2018 17:24:12 +0200</pubDate>
       
-      <guid>/playmore/premium/channels/turntable-numbers/</guid>
+      <guid>/premium-business-music/turntable-numbers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hit Tracks</title>
-      <link>/playmore/premium/channels/hit-tracks/</link>
+      <link>/premium-business-music/hit-tracks/</link>
       <pubDate>Mon, 19 Nov 2018 17:23:36 +0200</pubDate>
       
-      <guid>/playmore/premium/channels/hit-tracks/</guid>
+      <guid>/premium-business-music/hit-tracks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chart Toppers</title>
-      <link>/playmore/premium/channels/chart-toppers/</link>
+      <link>/premium-business-music/chart-toppers/</link>
       <pubDate>Mon, 19 Nov 2018 17:23:11 +0200</pubDate>
       
-      <guid>/playmore/premium/channels/chart-toppers/</guid>
+      <guid>/premium-business-music/chart-toppers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Throwbacks and Favs</title>
-      <link>/playmore/premium/channels/throwbacks-and-favs/</link>
+      <link>/premium-business-music/throwbacks-and-favs/</link>
       <pubDate>Mon, 19 Nov 2018 17:22:48 +0200</pubDate>
       
-      <guid>/playmore/premium/channels/throwbacks-and-favs/</guid>
+      <guid>/premium-business-music/throwbacks-and-favs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Musica Esencial</title>
-      <link>/playmore/premium/channels/musica-esencial/</link>
+      <link>/premium-business-music/musica-esencial/</link>
       <pubDate>Mon, 19 Nov 2018 17:22:27 +0200</pubDate>
       
-      <guid>/playmore/premium/channels/musica-esencial/</guid>
+      <guid>/premium-business-music/musica-esencial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Radio Mix</title>
-      <link>/playmore/premium/channels/radio-mix/</link>
+      <link>/premium-business-music/radio-mix/</link>
       <pubDate>Mon, 19 Nov 2018 17:21:55 +0200</pubDate>
       
-      <guid>/playmore/premium/channels/radio-mix/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Radio Mix</title>
-      <link>/playmore/starter/channels/radio-mix/</link>
-      <pubDate>Mon, 19 Nov 2018 17:21:55 +0200</pubDate>
-      
-      <guid>/playmore/starter/channels/radio-mix/</guid>
+      <guid>/premium-business-music/radio-mix/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yesterday&#39;s Hits</title>
-      <link>/playmore/premium/channels/yesterdays-hits/</link>
+      <link>/premium-business-music/yesterdays-hits/</link>
       <pubDate>Mon, 19 Nov 2018 15:22:37 +0200</pubDate>
       
-      <guid>/playmore/premium/channels/yesterdays-hits/</guid>
+      <guid>/premium-business-music/yesterdays-hits/</guid>
       <description></description>
     </item>
     

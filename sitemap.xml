@@ -3,17 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/playmore/starter/</loc>
+    <loc>/business-music-plans/starter/</loc>
     <lastmod>2018-11-20T09:27:30+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/playmore/premium/</loc>
+    <loc>/business-music-plans/premium/</loc>
     <lastmod>2018-11-20T09:28:24+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/playmore/</loc>
+    <loc>/starter-business-music/</loc>
+    <lastmod>2018-12-13T15:31:28+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/premium-business-music/</loc>
+    <lastmod>2018-12-13T15:31:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/business-music-plans/</loc>
     <lastmod>2018-12-13T12:16:58+02:00</lastmod>
   </url>
   
@@ -23,22 +33,22 @@
   </url>
   
   <url>
-    <loc>/playmore/starter/channels/fresh-and-trendy/</loc>
+    <loc>/starter-business-music/fresh-and-trendy/</loc>
     <lastmod>2018-12-03T07:59:37+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/playmore/starter/channels/young-and-free/</loc>
+    <loc>/starter-business-music/young-and-free/</loc>
     <lastmod>2018-12-03T07:59:13+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/playmore/starter/channels/route-66/</loc>
+    <loc>/starter-business-music/route-66/</loc>
     <lastmod>2018-12-03T07:58:38+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/playmore/starter/channels/mainstream-pop/</loc>
+    <loc>/starter-business-music/mainstream-pop/</loc>
     <lastmod>2018-12-03T07:51:43+02:00</lastmod>
   </url>
   
@@ -48,67 +58,62 @@
   </url>
   
   <url>
-    <loc>/playmore/starter/channels/indie-days/</loc>
+    <loc>/starter-business-music/indie-days/</loc>
     <lastmod>2018-11-21T16:53:27+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/playmore/starter/channels/jazz-classics/</loc>
+    <loc>/starter-business-music/jazz-classics/</loc>
     <lastmod>2018-11-21T15:45:57+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/playmore/starter/channels/acoustic-dream/</loc>
+    <loc>/starter-business-music/acoustic-dream/</loc>
     <lastmod>2018-11-21T15:26:56+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/playmore/starter/channels/smooth-lounge/</loc>
+    <loc>/starter-business-music/smooth-lounge/</loc>
     <lastmod>2018-11-21T15:21:26+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/playmore/starter/channels/now-pop/</loc>
+    <loc>/starter-business-music/now-pop/</loc>
     <lastmod>2018-11-19T18:17:19+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/playmore/premium/channels/turntable-numbers/</loc>
+    <loc>/premium-business-music/turntable-numbers/</loc>
     <lastmod>2018-11-19T17:24:12+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/playmore/premium/channels/hit-tracks/</loc>
+    <loc>/premium-business-music/hit-tracks/</loc>
     <lastmod>2018-11-19T17:23:36+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/playmore/premium/channels/chart-toppers/</loc>
+    <loc>/premium-business-music/chart-toppers/</loc>
     <lastmod>2018-11-19T17:23:11+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/playmore/premium/channels/throwbacks-and-favs/</loc>
+    <loc>/premium-business-music/throwbacks-and-favs/</loc>
     <lastmod>2018-11-19T17:22:48+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/playmore/premium/channels/musica-esencial/</loc>
+    <loc>/premium-business-music/musica-esencial/</loc>
     <lastmod>2018-11-19T17:22:27+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/playmore/premium/channels/radio-mix/</loc>
+    <loc>/premium-business-music/radio-mix/</loc>
     <lastmod>2018-11-19T17:21:55+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/playmore/starter/channels/radio-mix/</loc>
-    <lastmod>2018-11-19T17:21:55+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/playmore/premium/channels/yesterdays-hits/</loc>
+    <loc>/premium-business-music/yesterdays-hits/</loc>
     <lastmod>2018-11-19T15:22:37+02:00</lastmod>
   </url>
   
