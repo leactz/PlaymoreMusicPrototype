@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Playmore-ContentDraft</title>
-    <link>/</link>
-    <description>Recent content on Playmore-ContentDraft</description>
+    <title>Plans and Pricing on Playmore-ContentDraft</title>
+    <link>/playmore/</link>
+    <description>Recent content in Plans and Pricing on Playmore-ContentDraft</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Nov 2018 09:27:30 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 13 Dec 2018 12:16:58 +0200</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/playmore/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -63,15 +63,6 @@
       
       <guid>/playmore/starter/channels/mainstream-pop/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Lyric Filter Definitnions for Business Music</title>
-      <link>/lyric-filters/</link>
-      <pubDate>Mon, 26 Nov 2018 11:49:33 +0200</pubDate>
-      
-      <guid>/lyric-filters/</guid>
-      <description>Green Lyric Filter  We use songs that contain no profanity. There will be no implicit or explicit references to sexual activity or innuendo, alcohol use, drug references, or violence.  Yellow Lyric Filter  We use radio edits of songs that eliminate, cover, or partially eliminate the most offensive profanities. Be advised that some songs may contain the words &amp;ldquo;hell&amp;rdquo; and &amp;ldquo;damn,&amp;rdquo; words that are considered radio friendly. Also, songs in this category may contain explicit references to drinking and may have implicit references to sexual activity or innuendo, religious references, drug references, and violence  Orange Lyric Filter  We adhere to the same standards that a United States radio broadcast facility is required to maintain 6 a.</description>
     </item>
     
     <item>
