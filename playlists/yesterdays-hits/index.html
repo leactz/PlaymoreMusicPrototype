@@ -44,17 +44,11 @@
             <img src="../../playlists/yesterdays-hits.png" class="single-playlist-img" id="playerCover">
             
                 <figcaption class="text-tiny">
-                  
-
-                  
-                  <p class="h6 hover-expand"><i id="audioToggle" class="fas fa-play play"></i> Sample</p>
-                  <div class="expand hidden">
+                  <div class="">
                   <div id="aplayer">
                     <span class="sample-track">https://gratefulheartdesign.com/sample-music/digital-lemonade.mp3 </span>
                   </div>
-                  Attribution for temporary music used: DIGITAL-LEMONADE.MP3 by Kevin MacLeod (incompetech.com)
-                      Licensed under Creative Commons: By Attribution 3.0
-                        http://creativecommons.org/licenses/by/3.0/
+                  Attribution for temporary music used: DIGITAL-LEMONADE.MP3 by Kevin MacLeod (incompetech.com)Licensed under Creative Commons: By Attribution 3.0 http://creativecommons.org/licenses/by/3.0/
                 </figcaption>
             
         </figure>
@@ -87,6 +81,20 @@
 
       </div>
     </div>
+
+
+  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/aplayer/1.10.1/APlayer.min.js"></script>
+  <script>
+     const ap = new APlayer({
+       container: document.querySelector('#aplayer'),
+       audio: [{
+         name: document.querySelector('#playerTitle').innerHTML,
+         artist: document.querySelector('#playerArtist').innerHTML,
+         url: document.querySelector('.sample-track').innerHTML,
+       }]
+     });
+  </script>
 
 
 
@@ -126,8 +134,6 @@
   src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"
   integrity="sha256-T0Vest3yCU7pafRw9r+settMBX6JkKN06dqBnpQ8d30="
   crossorigin="anonymous"></script>
-  
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/aplayer/1.10.1/APlayer.min.js"></script>
   
   
   
