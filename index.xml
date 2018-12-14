@@ -6,26 +6,17 @@
     <description>Recent content on Playmore-ContentDraft</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Nov 2018 09:27:30 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 13 Dec 2018 12:16:58 +0200</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Starter</title>
-      <link>/business-music-plans/starter/</link>
-      <pubDate>Tue, 20 Nov 2018 09:27:30 +0200</pubDate>
+      <title>Plans and Pricing</title>
+      <link>/business-music-plans/</link>
+      <pubDate>Thu, 13 Dec 2018 12:16:58 +0200</pubDate>
       
-      <guid>/business-music-plans/starter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Premium</title>
-      <link>/business-music-plans/premium/</link>
-      <pubDate>Tue, 20 Nov 2018 09:28:24 +0200</pubDate>
-      
-      <guid>/business-music-plans/premium/</guid>
+      <guid>/business-music-plans/</guid>
       <description></description>
     </item>
     
