@@ -31,8 +31,6 @@ $(document).ready(function(){
 
 $(document).ready(function() {
 
-  console.log("js is working");
-
   // FADE IN FLASH CARDS ON HOME PAGE
    $('.flash-card-array').hide().removeClass('hidden').slideDown(200);
 
@@ -50,8 +48,6 @@ $(document).ready(function() {
       $(this).removeClass('fa-times').addClass('fa-bars');
     }
   });
-
-
 
   // BACK BUTTON FUNCTION
 
